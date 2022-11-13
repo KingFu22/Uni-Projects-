@@ -1,0 +1,15 @@
+package cis5027BlackJack;
+/**
+ * An enum representing the four possible suits of the card.
+ * 
+ * @author St20155999
+ * 
+ */
+
+
+public enum Suit {
+    CLUBS,
+    HEART,
+    SPADES,
+    DIAMONDS
+}
